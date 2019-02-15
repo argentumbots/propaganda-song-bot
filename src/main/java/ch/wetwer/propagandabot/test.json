@@ -1,0 +1,291 @@
+[
+  {
+    "id": 796,
+    "title": "Bohemian Rhapsody",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/93xA62uLd5CwMOAs37eQ7vPc1iV.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+    "trailerKey": "6S9c5nnDd_s",
+    "tmdbId": 424694,
+    "year": "2018",
+    "quality": "1080p",
+    "runtime": 135,
+    "popularity": 245.109,
+    "voteAverage": 8.2,
+    "filetype": "video/mp4",
+    "timestamp": "2019-01-22T21:35:31.000+0000",
+    "descript": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+    "genres": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Music"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 812,
+    "title": "Overlord",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/iEQgMiqCIzS1osIuafgctvluGj5.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/l76Rgp32z2UxjULApxGXAPpYdAP.jpg",
+    "trailerKey": "USPd0vX2sdc",
+    "tmdbId": 438799,
+    "year": "2018",
+    "quality": "720p",
+    "runtime": 110,
+    "popularity": 194.35,
+    "voteAverage": 6.9,
+    "filetype": "video/mp4",
+    "timestamp": "2019-02-04T10:09:34.000+0000",
+    "descript": "On the eve of D-Day during World War II, American paratroopers are caught behind enemy lines after their plane crashes on a mission to destroy a German Radio Tower in a small town outside of Normandy. After reaching their target, the paratroopers come to realize that besides fighting off Nazi soldiers, they also must fight against horrifying, bloody, and violent creatures that are a result of a secret Nazi experiment.",
+    "genres": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Horror"
+      },
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Thriller"
+      },
+      {
+        "name": "War"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 813,
+    "title": "Robin Hood",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/AuA50D7T7S7OEVcGo0ZKaMhERn0.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg",
+    "trailerKey": "tJfDBSWYqU8",
+    "tmdbId": 375588,
+    "year": "2018",
+    "quality": "720p",
+    "runtime": 116,
+    "popularity": 176.942,
+    "voteAverage": 5.8,
+    "filetype": "video/mp4",
+    "timestamp": "2019-02-05T14:28:06.000+0000",
+    "descript": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+    "genres": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 735,
+    "title": "Aquaman",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/5A2bMlLfJrAfX9bqAibOL2gCruF.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg",
+    "trailerKey": "WDkg3h8PCVU",
+    "tmdbId": 297802,
+    "year": "2018",
+    "quality": "720p",
+    "runtime": 143,
+    "popularity": 148.961,
+    "voteAverage": 6.8,
+    "filetype": "video/mp4",
+    "timestamp": "2019-01-04T01:13:01.000+0000",
+    "descript": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.",
+    "genres": [
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Adventure"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 785,
+    "title": "A Star Is Born",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/wqtaHWOEZ3rXDJ8c6ZZShulbo18.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+    "trailerKey": "nSbzyEJ8X9E",
+    "tmdbId": 332562,
+    "year": "2018",
+    "quality": "720p",
+    "runtime": 135,
+    "popularity": 138.738,
+    "voteAverage": 7.4,
+    "filetype": "video/mp4",
+    "timestamp": "2019-01-15T08:33:21.000+0000",
+    "descript": "Seasoned musician Jackson Maine discovers—and falls in love with—struggling artist Ally. She has just about given up on her dream to make it big as a singer—until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+    "genres": [
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Music"
+      },
+      {
+        "name": "Romance"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 50,
+    "title": "Avengers Infinity War",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "trailerKey": "6ZfuNTqbHE8",
+    "tmdbId": 299536,
+    "year": "2018",
+    "quality": "1080p",
+    "runtime": 149,
+    "popularity": 121.04,
+    "voteAverage": 8.3,
+    "filetype": "video/mp4",
+    "timestamp": null,
+    "descript": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "genres": [
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Action"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 672,
+    "title": "Venom",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+    "trailerKey": "dzxFdtWmjto",
+    "tmdbId": 335983,
+    "year": "2018",
+    "quality": "1080p",
+    "runtime": 112,
+    "popularity": 120.978,
+    "voteAverage": 6.6,
+    "filetype": "video/mp4",
+    "timestamp": "2018-11-28T08:23:12.000+0000",
+    "descript": "Eddie Brock is a reporter, investigating people who want to go unnoticed. But after he makes a terrible discovery at the Life Foundation, he begins to transform into ‘Venom’.  The Foundation has discovered creatures called symbiotes, and believes they’re the key to the next step in human evolution. Unwittingly bonded with one, Eddie discovers he has incredible new abilities - and a voice in his head that’s telling him to embrace the darkness.  One of Marvel’s most celebrated anti-heroes comes to the big screen in ‘Venom’, starring Tom Hardy, Michelle Williams and Riz Ahmed.",
+    "genres": [
+      {
+        "name": "Science Fiction"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 809,
+    "title": "Mortal Engines",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/rxYG6Sj95as9rv9wKIHUx6ATWd3.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/uXJVpPXxZO4L8Rz3IG1Y8XvZJcg.jpg",
+    "trailerKey": "IRsFc2gguEg",
+    "tmdbId": 428078,
+    "year": "2018",
+    "quality": "1080p",
+    "runtime": 128,
+    "popularity": 120.334,
+    "voteAverage": 5.9,
+    "filetype": "video/mp4",
+    "timestamp": "2019-02-01T09:47:15.000+0000",
+    "descript": "Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.",
+    "genres": [
+      {
+        "name": "Science Fiction"
+      },
+      {
+        "name": "Action"
+      },
+      {
+        "name": "Adventure"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 810,
+    "title": "Widows",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/71OjxI27tK7kTIiPnMkdQDx14pe.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+    "trailerKey": "nN2yBBSRC78",
+    "tmdbId": 401469,
+    "year": "2018",
+    "quality": "1080p",
+    "runtime": 130,
+    "popularity": 109.067,
+    "voteAverage": 6.6,
+    "filetype": "video/mp4",
+    "timestamp": "2019-02-01T23:50:58.000+0000",
+    "descript": "A police shootout leaves four thieves dead during an explosive armed robbery attempt in Chicago. Their widows have nothing in common except a debt left behind by their spouses' criminal activities. Hoping to forge a future on their own terms, they join forces to pull off a heist.",
+    "genres": [
+      {
+        "name": "Crime"
+      },
+      {
+        "name": "Drama"
+      },
+      {
+        "name": "Thriller"
+      }
+    ],
+    "broken": false
+  },
+  {
+    "id": 818,
+    "title": "Ralph Breaks The Internet",
+    "backgroundImg": "https://image.tmdb.org/t/p/original/88poTBTafMXaz73vYi3c74g0y2k.jpg",
+    "caseImg": "https://image.tmdb.org/t/p/original/lDroo0e4Pr33c1Y4LWr7f4IE8f2.jpg",
+    "trailerKey": "_BcYBFC6zfY",
+    "tmdbId": 404368,
+    "year": "2018",
+    "quality": "1080p",
+    "runtime": 112,
+    "popularity": 99.417,
+    "voteAverage": 7.4,
+    "filetype": "video/mp4",
+    "timestamp": "2019-02-12T08:44:13.000+0000",
+    "descript": "Six years after the events of \"Wreck-It Ralph,\" Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.",
+    "genres": [
+      {
+        "name": "Family"
+      },
+      {
+        "name": "Animation"
+      },
+      {
+        "name": "Comedy"
+      },
+      {
+        "name": "Fantasy"
+      }
+    ],
+    "broken": false
+  }
+]
