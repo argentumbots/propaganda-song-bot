@@ -60,7 +60,7 @@ public class AnnieBot extends TelegramLongPollingBot {
                     inlineButton(update);
                     break;
                 case "/help":
-                    SendMessage message = new SendMessage() // Create a SendMessage object with mandatory fields
+                    SendMessage message = new SendMessage()
                             .setChatId(update.getMessage().getChatId())
                             .setText("SONGS:\n" +
                                     "/bitch\t- Bitch Lasagna\n" +
@@ -73,7 +73,7 @@ public class AnnieBot extends TelegramLongPollingBot {
                                     "/alah\t- Salil Sawarim\n" +
                                     "/wouldnever\t- Never Gonna Give You Up\n" +
                                     "/team\t- Ohne mein Team");
-                    execute(message); // Call method to send the message
+                    execute(message);
 
                     break;
             }
@@ -110,10 +110,10 @@ public class AnnieBot extends TelegramLongPollingBot {
 
     private void sendSong(Update update, String[] song) throws TelegramApiException {
         for (String s : song) {
-            SendMessage message = new SendMessage() // Create a SendMessage object with mandatory fields
+            SendMessage message = new SendMessage()
                     .setChatId(update.getMessage().getChatId())
                     .setText(s);
-            execute(message); // Call method to send the message
+            execute(message);
             try {
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
